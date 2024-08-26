@@ -1,2 +1,1 @@
-
-        {'Figure':'9',    'Power':9}]
+CountryLeaders[key]

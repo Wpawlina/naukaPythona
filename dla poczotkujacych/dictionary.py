@@ -4,6 +4,7 @@ CountryLeaders['DE']='Merkel'
 print(CountryLeaders.keys())
 print(CountryLeaders.items())
 print(CountryLeaders.values())
+
 print(CountryLeaders.popitem())#popitem zwraca klucz i wartosc i usuwa ostatni item z dictionary
 print(CountryLeaders.pop('PL'))
 CountryLeaders['DE']='Merkel'
@@ -23,3 +24,4 @@ chanels.update(chanelsUpdate)
 print(chanels.keys())
 chanels.pop('Email')
 print(chanels)
+

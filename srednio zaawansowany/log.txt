@@ -1,0 +1,329 @@
+2024-08-26 12:26:36.325646
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:26:36.326646
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:28:29.780709
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:28:29.781209
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:28:45.127950
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:28:45.128451
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:31:50.913651
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:31:50.914147
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:32:30.540747
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:32:30.541247
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:32:53.052617
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:32:53.053117
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:33:31.735130
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:33:31.735634
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:33:47.822159
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:33:47.822660
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:36:44.856638
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:36:44.857139
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:40:41.897115
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:40:41.897615
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:40:49.109789
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:40:49.110291
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:42:53.532540
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:42:53.533040
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:58:22.992746
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:58:22.993748
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 12:59:40.910576
+Starting processing forecasting
+----------------------------------------
+2024-08-26 12:59:40.911076
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:06:39.013602
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:06:39.014102
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:06:58.065568
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:06:58.066068
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:07:24.578853
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:07:24.579350
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:14:07.968832
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:14:07.968832
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:21:58.074449
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:21:58.075449
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:22:22.464063
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:22:22.464563
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:25:06.749793
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:25:06.750292
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:25:52.259817
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:25:52.260317
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:30:30.049583
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:30:30.050581
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:30:52.226262
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:30:52.226763
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:31:13.779625
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:31:13.780626
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:33:03.946874
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:33:03.947375
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+2024-08-26 13:43:16.964815
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:43:16.965315
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-08-26T13:43:17.017934
+Following arguments were used 
+Johnson3000True
+
+Function returned 3000
+2024-08-26 13:44:03.078665
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:44:03.079664
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-08-26T13:44:03.099665
+Following arguments were used 
+ Johnson  3000  True 
+
+Function returned 3000
+2024-08-26 13:45:17.257015
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:45:17.257515
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-08-26T13:45:17.271871
+Following arguments were used 
+Johnson 3000 True
+
+Function returned 3000
+2024-08-26 13:45:18.349180
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:45:18.349680
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-08-26T13:45:18.364551
+Following arguments were used 
+Johnson 3000 True
+
+Function returned 3000
+2024-08-26 13:56:37.386244
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:56:37.386756
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-08-26T13:56:37.407255
+Following arguments were used 
+Johnson 3000 True
+
+Function returned 3000
+==============================
+2024-08-26 13:57:52.338162
+Starting processing forecasting
+----------------------------------------
+2024-08-26 13:57:52.338660
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-08-26T13:57:52.361659
+Following arguments were used 
+Johnson 3000 True
+
+Function returned 3000
+==============================
+Function create_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednio zaawansowany\test3.txt 2024-08-26T13:57:52.362661
+==============================
+Function delete_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednio zaawansowany\test3.txt 2024-08-26T13:57:52.364158
