@@ -45,7 +45,7 @@ print(calculate_paint(0.5, *rooms))
 
 import os
 def logIt(*args):
-    path = os.path.join(os.getcwd(), 'srednio zaawansowany\\log.txt')
+    path = os.path.join(os.getcwd(), 'srednioZaawansowany\\log.txt')
     with open(path, 'a') as f:
         import datetime
         print(datetime.datetime.now(), file=f)
@@ -210,7 +210,6 @@ def createFunctionWithWrapper(func):
 ChangeSalaryWithLog=createFunctionWithWrapper(ChangeSalary)
 print(ChangeSalaryWithLog('Johnson', 2000,True))
 
-import functools
 
 @createFunctionWithWrapper
 def ChangeSalary(empName, newSalary,isBonus=False):
@@ -264,10 +263,12 @@ def createFunctionWithWrapperAndArguments(logFilePath):
         return fun_with_wrapper
     return createFunctionWithWrapper
 
+
+
         
    
     
-@createFunctionWithWrapperAndArguments(os.path.join(os.getcwd(), 'srednio zaawansowany\\log.txt'))
+@createFunctionWithWrapperAndArguments(os.path.join(os.getcwd(), 'srednioZaawansowany\\log.txt'))
 def ChangeSalary(empName, newSalary,isBonus=False):
     print('Changing salary for', empName, 'to', newSalary,'as bonus',isBonus) 
     return newSalary
@@ -291,17 +292,17 @@ def createFunctionWithWrapperAndArguments(logFilePath):
 
 
         
-@createFunctionWithWrapperAndArguments(os.path.join(os.getcwd(), 'srednio zaawansowany\\log.txt'))
+@createFunctionWithWrapperAndArguments(os.path.join(os.getcwd(), 'srednioZaawansowany\\log.txt'))
 def create_file(path):
     print('creating file {}'.format(path))
     open(path,"w+")
-@createFunctionWithWrapperAndArguments(os.path.join(os.getcwd(), 'srednio zaawansowany\\log.txt'))
+@createFunctionWithWrapperAndArguments(os.path.join(os.getcwd(), 'srednioZaawansowany\\log.txt'))
 def delete_file(path):
     print('deleting file {}'.format(path))
     os.remove(path)
 
-create_file(os.path.join(os.getcwd(), 'srednio zaawansowany\\test3.txt'))
-delete_file(os.path.join(os.getcwd(), 'srednio zaawansowany\\test3.txt'))
+create_file(os.path.join(os.getcwd(), 'srednioZaawansowany\\test3.txt'))
+delete_file(os.path.join(os.getcwd(), 'srednioZaawansowany\\test3.txt'))
 
 
    

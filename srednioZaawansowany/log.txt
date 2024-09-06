@@ -327,3 +327,41 @@ Function returned 3000
 Function create_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednio zaawansowany\test3.txt 2024-08-26T13:57:52.362661
 ==============================
 Function delete_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednio zaawansowany\test3.txt 2024-08-26T13:57:52.364158
+2024-09-06 16:16:25.527243
+Starting processing forecasting
+----------------------------------------
+2024-09-06 16:16:25.527747
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-09-06T16:16:25.543744
+Following arguments were used 
+Johnson 3000 True
+
+Function returned 3000
+==============================
+Function create_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednioZaawansowany\test3.txt 2024-09-06T16:16:25.544745
+==============================
+Function delete_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednioZaawansowany\test3.txt 2024-09-06T16:16:25.545744
+2024-09-06 16:16:38.780115
+Starting processing forecasting
+----------------------------------------
+2024-09-06 16:16:38.780115
+ERROR
+Not enough data
+invoices
+2020
+----------------------------------------
+==============================
+Function ChangeSalary started at 2024-09-06T16:16:38.790637
+Following arguments were used 
+Johnson 3000 True
+
+Function returned 3000
+==============================
+Function create_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednioZaawansowany\test3.txt 2024-09-06T16:16:38.791636
+==============================
+Function delete_file executed on C:\Users\wojpa\OneDrive\zd\python\udemy\srednioZaawansowany\test3.txt 2024-09-06T16:16:38.792635

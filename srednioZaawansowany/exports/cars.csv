@@ -1,0 +1,5 @@
+brand;model;isAirBagOk;isPaintingOk;isMechanicOk;isOnSale;file
+Renault;Megane;True;True;True;False;imported from text
+Peugeot;308;True;False;True;True;imported from text
+Seat;Ibiza;True;True;True;False;
+Opel;Corsa;True;False;True;True;
